@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500|Work+Sans:400,600&display=swap');
+
+body, html { 
+    /* height: 100%; */
+    color: #332232;
+    /* font-family: 'Ubuntu Condensed', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+}
+#app{
+    color: #332232;
+    /* font-family: 'Ubuntu Condensed', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.logo img {
+  max-width: 110px;
+}
